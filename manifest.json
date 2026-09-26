@@ -1,0 +1,16 @@
+{
+  "schema": 1,
+  "version": 1,
+  "assetsVersion": 1,
+  "assets": [
+    "ixry_vfx_jumpcircle.png",
+    "ixry_vfx_cube_glow.png",
+    "ixry_vfx_wing_prism_left.png",
+    "ixry_vfx_wing_prism_right.png",
+    "ixry_vfx_wing_prism_left_aura.png",
+    "ixry_vfx_wing_prism_right_aura.png",
+    "ixry_vfx_lineglyph_dash.png",
+    "ixry_vfx_lineglyph_glowdash.png",
+    "ixry_vfx_lineglyph_glow_solid.png"
+  ]
+}
